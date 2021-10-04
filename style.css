@@ -10,29 +10,34 @@ color: crimson
     text-align:center; 
     font-size: 36px;   
     align-items:center;
-
+    line-height: 2.5;
     
     margin-left: 100px;
     margin-right: 100px;
     margin-bottom: 100px:
             
-}
+}   
 p.post{
-    padding: top 50px;    
+    padding: top 50px;
+    text-align: center;   
+    position: relative; height:100px; 
+    line-height: 100px;
 }
 .title{ 
     text-align:center;
     color: red
 }   
 .moose{ 
+    height:600px; 
+    width: 1300px;
     color:red;
     background-color: white; 
     text-align:center; 
     font-size: 36px;   
     align-items:center;
-    height: 500px; 
-    width: 1700px;
-    position 
+    
+    
     margin-left: 100px;
     margin-right: 100px;
-    margin-bottom: 100px:
+    margin-bottom: 100px;
+}
