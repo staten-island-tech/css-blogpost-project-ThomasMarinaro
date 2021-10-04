@@ -3,8 +3,36 @@ background-color: blue;
 
 color: crimson
 }
+
 .post{
+    color:red;
     background-color: white; 
-    height: 300px;
+    text-align:center; 
+    font-size: 36px;   
+    align-items:center;
+
     
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px:
+            
 }
+p.post{
+    padding: top 50px;    
+}
+.title{ 
+    text-align:center;
+    color: red
+}   
+.moose{ 
+    color:red;
+    background-color: white; 
+    text-align:center; 
+    font-size: 36px;   
+    align-items:center;
+    height: 500px; 
+    width: 1700px;
+    position 
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px:
