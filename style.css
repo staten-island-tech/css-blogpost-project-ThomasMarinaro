@@ -27,17 +27,38 @@ p.post{
     text-align:center;
     color: red
 }   
+.moose_graph{
+    align-items: center; 
+    height: 700px;
+    width: 1700px;
+    align-self:center;
+    background-color: white;
+    background-size:contain;
+    margin-left: 100px;
+
+    align-content:center;
+    margin-right: 100px;
+    padding-left:200px;
+    padding-right:200px;
+}
+
 .moose{ 
-    height:600px; 
+   height: 300px; 
     width: 1300px;
     color:red;
     background-color: white; 
-    text-align:center; 
+    text-align: center; 
     font-size: 36px;   
-    align-items:center;
     
-    
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-bottom: 100px;
+    padding-right:200px;
+    padding-left:200px;
+    margin-left:100px;
+    margin-right:100px;
+    line-height: 2.5;
+    margin-bottom:0px;
+}
+p.moose{
+    padding-bottom:100px;
+    background-repeat:space;
+    margin-top:0px;
 }
