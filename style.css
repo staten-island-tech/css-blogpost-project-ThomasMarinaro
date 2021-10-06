@@ -1,3 +1,8 @@
+*{
+
+
+
+}
 body {
 background-color: blue;
 
@@ -35,7 +40,8 @@ p.post{
     background-color: white;
     background-size:contain;
     margin-left: 100px;
-
+    height:fit-content;
+    width:1300px;
     align-content:center;
     margin-right: 100px;
     padding-left:200px;
@@ -62,3 +68,5 @@ p.moose{
     background-repeat:space;
     margin-top:0px;
 }
+
+
